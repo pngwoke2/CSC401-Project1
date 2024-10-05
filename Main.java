@@ -26,7 +26,7 @@ public class Main {
             sensorNodes[i][0] = x;
             sensorNodes[i][1] = y;
 
-            System.out.println("Node " + (i + 1) + ": (" + x + ", " + y + ")");
+     //       System.out.println("Node " + (i + 1) + ": (" + x + ", " + y + ")");  This line is probably useless.
         }
 
     }
